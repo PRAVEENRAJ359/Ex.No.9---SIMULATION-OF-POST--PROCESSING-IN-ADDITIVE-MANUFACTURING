@@ -34,21 +34,23 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![Screenshot 2024-12-04 111242](https://github.com/user-attachments/assets/60154f60-d7e2-4f6b-82b5-9903a41b6231)
+![Screenshot 2024-12-04 111734](https://github.com/user-attachments/assets/26a8c8be-fad4-48bc-bad1-6bfe691cd2d5)
+
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+![Screenshot 2024-12-04 112117](https://github.com/user-attachments/assets/a452ee3d-16cb-4ff3-94f5-9b6a7de52bef)
+![Screenshot 2024-12-04 112455](https://github.com/user-attachments/assets/8562953c-5bb0-4fed-8481-81925899bab7)
+
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+![Screenshot 2024-12-04 112734](https://github.com/user-attachments/assets/cc233c84-6e29-4c8a-b10c-db6be0b7c97a)
+![Screenshot 2024-12-04 112942](https://github.com/user-attachments/assets/375665d9-aae9-409b-9b65-51495ff3b196)
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: PRAVEENR RAJ R
+### Register Number: 24901056
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
